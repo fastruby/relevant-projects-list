@@ -21,3 +21,4 @@ The purpose of this repo is to list projects we consider as good starting points
 - [simplecov](https://github.com/simplecov-ruby/simplecov)
 - [istanbuljs](https://github.com/istanbuljs/istanbuljs)
 - [rubocop](https://github.com/rubocop/rubocop)
+- [react-testing-library](https://github.com/testing-library/react-testing-library)
